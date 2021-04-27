@@ -12,7 +12,7 @@ public class Test1_1 {
 		// 수학, 국어, 영어 성적을 저장하려 한다.
 		// 단, 성적은 0~100점 사이이고, 소수점은 없다
 		int math = 100; 
-		int national = 80; 
+		int national = 40; 
 		int english = 50; 
 		System.out.println("점수들");
 		System.out.println("수학점수" + math + "점");
